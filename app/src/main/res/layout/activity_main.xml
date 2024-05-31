@@ -14,7 +14,7 @@
 		android:layout_gravity="center"
 		android:layout_margin="3dp"
 		android:gravity="center"
-		android:text="Travel Photos App"
+		android:text="Photos App"
 		android:textSize="25dp"
 		android:textStyle="bold" />
 
